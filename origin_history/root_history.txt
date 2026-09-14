@@ -1,0 +1,28 @@
+    1  cd /usr/local/include
+    2  cd
+    3  env
+    4  echo "$TERM"
+    5  export iii=jjj
+    6  echo $iii
+    7  env
+    8  unset iii
+    9  history
+   10  export iii=$(export iii=jjj)
+   11  echo iii
+   12  exit
+   13  tar zxvf jre-8u73-linux-i586.tar.gz
+   14  tar jre-8u73-linux-i586.tar.gz
+   15  tar zxvf jre-8u73-linux-i586.tar.gz
+   16  exit
+   17  ifconfig
+   18  ifconfig -a
+   19  cd ~
+   20  echo "vika"> 1.txt
+   21  cat 1.txt
+   22  echo "vasya"> 2.txt
+   23  cat 2.txt
+   24  diff 1.txt 2.txt
+   25  history
+   26  lspci
+   27  history > history.txt
+   28  history > /home/den/root_history.txt

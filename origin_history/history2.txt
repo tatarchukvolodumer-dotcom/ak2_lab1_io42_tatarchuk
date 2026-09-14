@@ -1,0 +1,1000 @@
+  396  cmake --build.
+  397  cmake --build .
+  398  ./forchrist
+  399  git add CMakeLists.txt
+  400  git status
+  401  git commit -m"add CMakeLists.txt"
+  402  git log
+  403  sudo apt instal ninja-build
+  404  sudo apt install ninja-build
+  405  make clean
+  406  cmake -G "Ninja" .
+  407  ninja
+  408  ./forchrist
+  409  cd /home/den/projects/lab2/HolyWar
+  410  git log
+  411  git add build.ninja
+  412  git status
+  413  ghit restore --staged build.ninja
+  414  git restore --staged build.ninja
+  415  git status
+  416  cmake .
+  417  cmake --build.
+  418  cmake --build .
+  419  git clean -fd
+  420  git restore .
+  421  cmake .
+  422  cmake --build .
+  423  ./forchrist
+  424  git add Makefile
+  425  git status
+  426  git commit --amend --no-edit
+  427  gitlog
+  428  git log
+  429  cmake -G "Ninja" .
+  430  cmake -G"Ninja" .
+  431  nin ja --version
+  432  ninja --version
+  433  cmake -G "Ninja" .
+  434  make clean
+  435  cmake -G "Ninja" .
+  436  ninja
+  437  ./forchrist
+  438  git status
+  439  clean
+  440  clear
+  441  git remote add lab2 https://github.com/tatarchukvolodumer-dotcom/lab2.git
+  442  git remote
+  443  git remote -v
+  444  git push lab2 master
+  445  clear
+  446  g++ main.cpp glory.cpp holy.h
+  447  ./a.out
+  448  git log
+  449  git log --oneline
+  450  git switch 50fe2e6
+  451  git checkout 50fe2e6
+  452  git switch -
+  453  git checkout 3468972
+  454  make
+  455  ./forchrist
+  456  ./main.o
+  457  git switch -
+  458  cmake .
+  459  cmake --build.
+  460  cmake --build .
+  461  ./forchrist
+  462  git clean -fd
+  463  cmake -G "Ninja" .
+  464  ninja
+  465  ./forchrist
+  466  cd /home/den/projects/lab2/HolyWar
+  467  git checkout 3468972
+  468  git log
+  469  git clean -fd
+  470  git switch -
+  471  ls
+  472  cd /home/den/projects/lab2/HolyWar
+  473  clear
+  474  git log --oneline
+  475  git remote~ -v
+  476  git remote -v
+  477  clear
+  478  git remote -v
+  479  git log --oneline
+  480  cmake --build .
+  481  cmake .
+  482  cmake --build .
+  483  ls
+  484  z./forchrist
+  485  ./forchrist
+  486  git clean -fd
+  487  clear
+  488  ls
+  489  git remote -v
+  490  git log --oneline
+  491  g++ main.cpp glory.cpp holy.h
+  492  ls
+  493  ./a.out
+  494  git clean -fd
+  495  git checkout 3468972
+  496  make
+  497  ls
+  498  ./forchrist
+  499  git clean -fd
+  500  git switch -
+  501  cmake .
+  502  cmake --build .
+  503  ls
+  504  ./forchrist
+  505  git clean -fd
+  506  cmake -G "Ninja" .
+  507  ninja
+  508  ./forchrist
+  509  clear
+  510  ls
+  511  git clean -fd
+  512  clear
+  513  ls
+  514  git remote -v
+  515  git log --oneline
+  516  g++ main.cpp glory.cpp holy.h
+  517  ls
+  518  ./a.out
+  519  git clean -fd
+  520  git checkout 3468972
+  521  make
+  522  ls
+  523  ./forchrist
+  524  git clean -fd
+  525  git switch -
+  526  cmake .
+  527  cmake --build .
+  528  ls
+  529  ./forchrist
+  530  git clean -fd
+  531  cmake -G "Ninja" .
+  532  ninja
+  533  ./forchrist
+  534  git clean -fd
+  535  ls
+  536  clear
+  537  cd /home/den/projects/lab2/HolyWar
+  538  clear
+  539  ls
+  540  git log --oneline
+  541  g++ main.cpp glory.cpp holy.h
+  542  ls
+  543  ./a.out
+  544  git clean -fd
+  545  git checkout 3468972
+  546  make
+  547  ls
+  548  ./forchrist
+  549  git clean -fd
+  550  git switch -
+  551  cmake .
+  552  cmake --build .
+  553  ls
+  554  ./forchrist
+  555  git clean -fd
+  556  cmake -G "Ninja" .
+  557  ninja
+  558  ls
+  559  ./forchrist
+  560  git clean -fd
+  561  clear
+  562  ls
+  563  git log --oneline
+  564  g++ main.cpp glory.cpp holy.h
+  565  ls
+  566  ./a.out
+  567  git clean -fd
+  568  git checkout 3468972
+  569  make
+  570  ls
+  571  ./forchrist
+  572  git clean -fd
+  573  git switch -
+  574  cmake .
+  575  cmake --build .
+  576  ls
+  577  ./forchrist
+  578  git clean -fd
+  579  cmake -G"Ninja" .
+  580  ninja
+  581  ls
+  582  ./forchrist
+  583  cd /home/den/projects/lab2/HolyWar
+  584  gitlog
+  585  git log
+  586  ls
+  587  git checkout 3468972
+  588  make
+  589  ./forchrist
+  590  git clen -fd
+  591  git clean -fd
+  592  git switch -
+  593  pwd
+  594  man
+  595  man man
+  596  passwd
+  597  echo
+  598  man echo
+  599  echo --help
+  600  chmod
+  601  chmod --help
+  602  uname --help
+  603  uname -r
+  604  uname -a
+  605  hostnamectl
+  606  sudo --help
+  607  sudo -i
+  608  echo iii
+  609  echo $SHELL
+  610  history | sed -n '1,20p'
+  611  cd /home/den/projects/IPZ/lab3
+  612  git init
+  613  git log
+  614  rm lab3
+  615  cd /home/den/projects/IPZ
+  616  touch lab3.dir
+  617  cd lab3
+  618  git log
+  619  git clone https://github.com/tatarchukvolodumer-dotcom/lab3.IPZ
+  620  git log
+  621  cd /lab3.IPZ
+  622  cd /home/den/projects/IPZ/lab3/lab3.IPZ
+  623  git add *
+  624  git status  -m
+  625  git status -s
+  626  git commit -m "rework docoments"
+  627  git remote
+  628  git remote --help
+  629  git remote -v
+  630  git remote origin push master
+  631  git push origin
+  632  history
+  633  passwd
+  634  qqqq
+  635  echo $HOME
+  636  export aaa=bbb
+  637  export $aaa
+  638  rm $aaa aaa
+  639  cd /home/den/projects/text_files
+  640  cp /etc/passwd /home/den/projects/text_files/pass.txt
+  641  ls
+  642  test.txt
+  643  cat test.txt city.txt
+  644  cat text.txt
+  645  wc -l text.txt
+  646  wc -w text.txt
+  647  wc -c text.txt
+  648  man wc
+  649  history
+  650  uname
+  651  uname -a
+  652  arch
+  653  uname -r
+  654  sudo apt-get install git-all
+  655  history
+  656  uname -a
+  657  lsb_release -a
+  658  uname -r
+  659  man uname
+  660  uname -m
+  661  arch
+  662  uname -a
+  663  uname -m
+  664  . ~/.bash_profile
+  665  man env
+  666  cut -d ':' -f 3,1 pass.txt
+  667  date
+  668  date +FORMAT
+  669  date
+  670  man bash
+  671  bash
+  672  ./forchrist
+  673  clear
+  674  head -n 3 pass.txt
+  675  less path.txt
+  676  man less
+  677  less --help
+  678  less /home/den/projects/text_files
+  679  less pass.txt
+  680  man sort
+  681  uname -r
+  682  lsb_realeas 1
+  683  lsb_releas 1
+  684  lsb_release -a
+  685  echo y
+  686  uname -a
+  687  ps aux | egrep 'qemu|libvirt|virt'
+  688  lsmod | egrep 'kvm|kvm_intel|kvm_amd'
+  689  sudo fuser -v /dev/kvm || true
+  690  sudo lsof /dev/kvm || true
+  691  sudo fuser -v /dev/kvm || true
+  692  sudo lsof /dev/kvm || true
+  693  sudo systemctl stop libvirtd || true
+  694  sudo systemctl stop virtqemud || true
+  695  sudo modprobe -r kvm_intel kvm
+  696  lsmod | egrep 'kvm|kvm_intel|kvm_amd' || true
+  697  lsmod | egrep 'kvm|virt|qemu'
+  698  ps aux | egrep 'qemu|libvirt|virt'
+  699  [200~sudo modprobe -r kvm_intel kvm
+  700  sudo modprobe -r kvm_intel kvm
+  701  ps aux | egrep 'qemu|libvirt|virt'
+  702  lsmod | egrep 'kvm|kvm_intel|kvm_amd' || true
+  703  history
+  704  lsmod | egrep 'kvm|kvm_intel|kvm_amd'
+  705  ps aux | egrep 'qemu|libvirt|virt'
+  706  sudo modprobe -r kvm_intel kvm
+  707  history
+  708  sudo modprobe -r kvm_intel kvm
+  709  cd /home/den/projects
+  710  ls
+  711  cd/Kursah
+  712  cd /Kursah
+  713  cd --help
+  714  cd ~/Kursah
+  715  cd ~~/Kursah
+  716  cd /home/den/projects/Kursah
+  717  ls
+  718  touch lab3.dir
+  719  cd /home/den/projects/Kursah/lab3
+  720  touch l.sh
+  721  ls
+  722  wich $SHELL
+  723  which $SHELL
+  724  gvim l.sh
+  725  cd /home/den/projects/Kursah
+  726  cd /home/den/projects/Kursah/lab3
+  727  git innit
+  728  git init
+  729  git log
+  730  naNO l.sh
+  731  nano l.sh
+  732  cd /home/den/projects/Kursah/lab3
+  733  which $SHELL
+  734  gvim l.sh
+  735  bash l.sh
+  736  bash --help
+  737  bash l.sh
+  738  git add *
+  739  git connfig
+  740  git config
+  741  git config -v
+  742  git config -l
+  743  git status
+  744  git commit -m "v 1.0"
+  745  git log
+  746  bash l.sh
+  747  git add *
+  748  git commit -m "v 1.0, whith created dir"
+  749  git status
+  750  git add l.sh_dir
+  751  git status
+  752  git log
+  753  T="${1:-.}"
+  754  cd "$T"  exit
+  755  shopt -s nullglob
+  756  for p in ./*; do   n="${p##*/}";   if [ -d "$p" ]; then     echo "$n є директорією.";   elif [ -f "$p" ]  [ -L "$p" ]; then     d="${n}_dir";     [ -e "$d" ] && [ ! -d "$d" ] && { echo "Пропускаю $n (ціль $d зайнятий)"; continue; };     mkdir -p -- "$d" && mv -- "$p" "$d/" && echo "$n переміщений.";   fi
+  757  cd /home/den/projects/Kursah/lab3
+  758  git innit
+  759  git init
+  760  clear
+  761  gvim l.sh
+  762  cd /home/den/projects/Kursah/lab3/a
+  763  touch a.txt
+  764  cd /home/den/projects/Kursah/lab3
+  765  gvim c.txt
+  766  bash mine.sh
+  767  ls
+  768  gvim mine.sh
+  769  bash mine.sh
+  770  bash mine.sh /a
+  771  bash mine.sh ~/a
+  772  bash mine.sh /home/den/projects/Kursah/lab3/a
+  773  cd /home/den/projects/Kursah/lab3/c.txt_dir
+  774  gvim spy.txt
+  775  cd /home/den/projects/Kursah/lab3
+  776  bash mine.sh
+  777  git add *
+  778  git status
+  779  git commit -m "v1.0"
+  780  git remote add https://github.com/tatarchukvolodumer-dotcom/lab3.git
+  781  git remote add lab3 https://github.com/tatarchukvolodumer-dotcom/lab3.git
+  782  git remote push lab3 master
+  783  git push lab3 master
+  784  gvim e.txt
+  785  git add *
+  786  git commit -m "v1.1"
+  787  git push lab3 master
+  788  4220 mod 6
+  789  clear
+  790  ls
+  791  bash mine.sh
+  792  ls
+  793  clear
+  794  bash mine.sh /a
+  795  bash mine.sh ~/a
+  796  bash mine.sh /home/den/projects/Kursah/lab3/a
+  797  clear
+  798  ls
+  799  bas mine.sh
+  800  ls
+  801  bash mine.sh
+  802  ls
+  803  git restore .
+  804  git clean -fd
+  805  bash mine.sh /home/den/projects/Kursah/lab3/a
+  806  cd /home/den/projects/Kursah/lab3/a
+  807  ls
+  808  cd /home/den/projects/Kursah/lab3
+  809  git restore .
+  810  git clean -fd
+  811  clear
+  812  history
+  813  clear
+  814  ls
+  815  bash mine.sh
+  816  ls
+  817  history
+  818  git restore .
+  819  git clean -fd
+  820  git clear
+  821  clear
+  822  bash mine.sh
+  823  ls
+  824  git restore .
+  825  git clean -fd
+  826  bash mine.sh /home/den/projects/Kursah/lab3/a
+  827  cd /home/den/projects/Kursah/lab3/a
+  828  ls
+  829  cd /home/den/projects/Kursah/lab3
+  830  bash mine.sh
+  831  git restore .
+  832  git clean -fd
+  833  gvim f.txt
+  834  git add *
+  835  git commit -m "v1.3"
+  836  bash mine.sh
+  837  git push lab3 master
+  838  clear
+  839  git restore .
+  840  git clean -fd
+  841  clear
+  842  ls
+  843  git restore .
+  844  bash mine.sh
+  845  git restore .
+  846  git clean -fd
+  847  gvim mine.sh
+  848  bash mine.sh
+  849  git restore .
+  850  git clean -fd
+  851  bash mine.sh
+  852  git restore .
+  853  git clean -fd
+  854  gvim mine.sh
+  855  bash mine.sh
+  856  git restore .
+  857  git clean -fd
+  858  git add *
+  859  git commit -m "v2.0"
+  860  git push lab3 master
+  861  clear
+  862  ls
+  863  git status
+  864  clear
+  865  ls
+  866  bash mine.sh
+  867  ls
+  868  cd /home/den/projects/Kursah/lab3/a
+  869  cd /home/den/projects/Kursah/lab3
+  870  git restore .
+  871  git clean -fd
+  872  cler
+  873  clear
+  874  git remove *
+  875  git restore .
+  876  git rm b c.txt_dir e.txt_dir f.txt_dir c.txt e.txt d.txt f.txt
+  877  git rm -r b c.txt_dir e.txt_dir f.txt_dir c.txt e.txt d.txt f.txt
+  878  gvim b.txt
+  879  git add *
+  880  git commit -m "v2.1"
+  881  git status
+  882  git log
+  883  git push lab3 master
+  884  clear
+  885  ls
+  886  bash mine.sh
+  887  ls
+  888  git restore .
+  889  git clean -fd
+  890  bash mine.sh /home/den/projects/Kursah/lab3/a
+  891  ls
+  892  clear
+  893  ls
+  894  clear
+  895  ls
+  896  bash mine.sh
+  897  ls
+  898  git restore .
+  899  bash mine.sh /home/den/projects/Kursah/lab3/a
+  900  git restore .
+  901  git clean -fd
+  902  clear
+  903  bash mine.sh
+  904  restore .
+  905  git restore .
+  906  bash mine.sh /home/den/projects/Kursah/lab3/a
+  907  ршіещкн
+  908  hystory
+  909  history
+  910  sudo modprobe -r kvm_intel kvm
+  911  man grep
+  912  pls
+  913  cd /home/den/projects/text_files
+  914  man grep
+  915  grep --help
+  916  clear
+  917  grep '\b[BRS][a-zA-Z]*[an]\b' city.txt| wc -l > newfile.txt
+  918  cat newfile
+  919  cat newfile.txt
+  920  wc --help
+  921  p
+  922  ps
+  923  id
+  924  dirs
+  925  lsmood --help
+  926  lsmod --help
+  927  lsmod
+  928  grep "Serbia" city.txt
+  929  cat city.txt
+  930  grep "2" city.txt
+  931  grep '^1.[68]$' city.txt
+  932  grep '^1.[68]$' city.txt| cat
+  933  grep '^1.[68]$' city.txt| cat city.txt
+  934  grep '^1.*[68]$' city.txt
+  935  grep -E '^1.[68]$' city.txt
+  936  grep -E '^1.*[68]$' city.txt
+  937  clear
+  938  cat city.txt
+  939  grep -E '^1.[0-9]*[68]$' city.txt
+  940  grep -E '^1[0-9]*[68]$' city.txt
+  941  grep -E '\b[1][0-9]*[68]]' city.txt
+  942  grep -E '\b[1][0-9]*[68]\b' city.txt
+  943  grep -E '\b^[1][68]$\b' city.txt
+  944  clear
+  945  grep -E '^[1][68]$' city.txt
+  946  clear
+  947  while --help; f; f; f; f; f; f; f; f; f; f; f; f; f; f; f; f; f; f; f; f; ff; f; f; f; f; f
+  948  man while
+  949  man
+  950  man man
+  951  clear
+  952  lsmod
+  953  clear
+  954  lsmod > newfile.txt| lsmod 2> erros.txt| lsmod > all.txt 2>&1
+  955  cat newfile.txt erros.txt all.txt
+  956  clear
+  957  rm newfile.txt erros.txt all.txt
+  958  ls
+  959  jk
+  960  сфе з--рудз
+  961  cat --help
+  962  tee -help
+  963  tee --help
+  964  xargs
+  965  xargs --help
+  966  echo "hello world" | cut -c1-5
+  967  echo "hello world" | cut -c 1-5
+  968  man cut
+  969  cut --help
+  970  echo "$HOME"
+  971  pwd
+  972  cd /home/den/projects/text_files
+  973  gvim mi.txt
+  974  cat mi.txt | xargs 
+  975  ls
+  976  rm mi.txt
+  977  ls
+  978  gvim mi.txt
+  979  cat mi.txt | xargs touch
+  980  ls
+  981  rm mi.txt n
+  982  ls
+  983  clear
+  984  echo "$city.txt"
+  985  clear
+  986  sot --help
+  987  sort --help
+  988  uniq --help
+  989  sort -d city.txt
+  990  sort -d city.txt|uniq > newfile.txt| cat newfile.txt
+  991  sort -d city.txt | uniq > newfile.txt | cat newfile.txt
+  992  ls
+  993  cat newfile.txt
+  994  rm newfile.txt
+  995  history
+  996  sudo modprobe -r kvm_intel kvm
+  997  man cp
+  998  man seq
+  999  man xargs
+ 1000  man sed
+ 1001  man top
+ 1002  man ps
+ 1003  man kill
+ 1004  man pgrep
+ 1005  clear
+ 1006  top
+ 1007  cleqar
+ 1008  clear
+ 1009  man pgrep
+ 1010  man ps
+ 1011  man awk
+ 1012  clear
+ 1013  ps -eo pid,comm,state | grep ' R$'
+ 1014  man ps
+ 1015  man passwd
+ 1016  kkk
+ 1017  man kak
+ 1018  man ssk
+ 1019  ddd
+ 1020  pdd
+ 1021  man chgrp
+ 1022  man chmod
+ 1023  sleep 1000 &
+ 1024  ps -e -o user,pid | grep "user" | awk '{print $NF}' | kill
+ 1025  [200~ps -e -o user,pid | grep "user" | awk '{print $2}' | xargs kill
+ 1026  ps -e -o user,pid | grep "user" | awk '{print $2}' | xargs kill
+ 1027  ps -e -o user,pid | grep "den" | awk '{print $2}' | xargs kill
+ 1028  ps -e -o user,pid | grep "user" | awk '{print $2}' | xargs kill
+ 1029  ps -e -o user,pid | grep "^user" | awk '{print $2}' | xargs -r kill
+ 1030  ps -e -o user,pid | grep "den" | awk '{print $NF}' | kill~
+ 1031  ps -e -o user,pid | grep "den" | awk '{print $NF}' | xargs kill
+ 1032  mkdir test
+ 1033  rmdir test
+ 1034  clear
+ 1035  mkdir test
+ 1036  cd test
+ 1037  for in i {aa..zz}; do touch "$i"; done
+ 1038  for in i {aa..zz}; do touch "i"; done
+ 1039  clear
+ 1040  mkdir test
+ 1041  cd test
+ 1042  for i in {aa..zz}; do touch "$i"; done
+ 1043  ls
+ 1044  усрщ ?ІРУДД
+ 1045  echo $SHELL
+ 1046  for i in $(echo {aa..zz}); do touch "$i"; done
+ 1047  ls
+ 1048  shopt -s braceexpand
+ 1049  for letter1 in {a..z}; do   for letter2 in {a..z}; do     touch "$letter1$letter2";   done; done
+ 1050  ls
+ 1051  mkdir test
+ 1052  cd test
+ 1053  for i in {a..z}; do for t in {a..z}; do touch "$i$t"; done; done
+ 1054  ls
+ 1055  clear
+ 1056  mkdir test
+ 1057  cd test
+ 1058  for i in {a..z}; do for t in {a..z}; do touch "$i$t"; done; done
+ 1059  ls
+ 1060  man useradd
+ 1061  ів вут
+ 1062  id den
+ 1063  id -u den
+ 1064  clear
+ 1065  ps
+ 1066  clear
+ 1067  sudo useradd -m abeba
+ 1068  id -u abeba
+ 1069  sudo usermod -u $(($(id -u abeba)+125)) abeba
+ 1070  id -u abeba
+ 1071  sudo userdell -m abeba
+ 1072  sudo userdel -m abeba
+ 1073  sudo userdel abeba
+ 1074  clear
+ 1075  sudo useradd abeba
+ 1076  id -u abeba
+ 1077  sudo usermod -u $(($(id -u abeba)+125)) abeba
+ 1078  id -u abeba
+ 1079  su - abeba
+ 1080  passwd abeba
+ 1081  sudo passwd abeba
+ 1082  su - abeba
+ 1083  ps -e -o user,pid|grep "abeba"|awk '{print $NF}'|xargs kill
+ 1084  sudo ps -e -o user,pid|grep "abeba"|awk '{print $NF}'|xargs kill
+ 1085  sudo $(ps -e -o user,pid|grep "abeba"|awk '{print $NF}'|xargs kill)
+ 1086  ps
+ 1087  ps -e -o user,pid|grep "abeba"|awk '{print $NF}'|xargs sudo kill
+ 1088  clear
+ 1089  ps -e -o user,pid| grep "abeba"| awk '{print $NF}'|xargs sudo kill
+ 1090  clear
+ 1091  ps -e -o user, pid|grep "abeba"|awk '{print $NF}'}|xargs sudo kill
+ 1092  clear
+ 1093  ps -e -o user,pid|grep "abeba"|awk '{print $NF}'|xargs sudo kill
+ 1094  top
+ 1095  id messege+
+ 1096  id massege+
+ 1097  cd /home/den/Завантажене/idea-IU-252.27397.103/bin
+ 1098  ./idea.sh
+ 1099  su -
+ 1100  history
+ 1101  sudo modprobe -r kvm_intel
+ 1102  10
+ 1103  1
+ 1104  q
+ 1105  9
+ 1106  10
+ 1107  2
+ 1108  9
+ 1109  1
+ 1110  apy list
+ 1111  apt list
+ 1112  clear
+ 1113  sudo apt update
+ 1114  apt search mc
+ 1115  sudo apt install mc
+ 1116  mc
+ 1117  clear
+ 1118  mc --version
+ 1119  ldd $(which mc)
+ 1120  man ldd
+ 1121  ip adress
+ 1122  ip address
+ 1123  ip rout
+ 1124  dig google.com.ua
+ 1125  man host
+ 1126  host google.com.ua
+ 1127  127.0.0.1
+ 1128  ping 127.0.0.1
+ 1129  ping kpi.ua
+ 1130  host 8.8.8.8
+ 1131  netstat
+ 1132  sudo netstat
+ 1133  clear
+ 1134  lvdisplay
+ 1135  sudo lvdisplay
+ 1136  sd
+ 1137  man mount
+ 1138  apt update
+ 1139  ip route
+ 1140  ip
+ 1141  man ldd
+ 1142  ldd mc
+ 1143  ldd $(which mc)
+ 1144  mc
+ 1145  history
+ 1146  clear
+ 1147  history
+ 1148  man grep
+ 1149  histoty | grep -l 'sudo'
+ 1150  history | grep -l 'sudo'
+ 1151  sudo modrobe -r kvm_intel
+ 1152  sudo modprobe -r kvm_intel
+ 1153  cd /home/den/Завантажене
+ 1154  tar -xzvf archive.tar.gz
+ 1155  tar -xzvf idea-2025.3.1.tar.gz
+ 1156  cd
+ 1157  cd /home/den/idea-IU-253.29346.138/bin
+ 1158  ./idea
+ 1159  java -jar plantuml.jar -testdot
+ 1160  java
+ 1161  cd /home/den/idea-IU-253.29346.138/bin
+ 1162  ./idea
+ 1163  man java
+ 1164  java
+ 1165  sudo apt install openjdk-21-jre-headless
+ 1166  java
+ 1167  ./idea
+ 1168  sudo apt install openjdk-24-jre-headless
+ 1169  cd /home/den/idea-IU-253.29346.138/bin
+ 1170  ./idea
+ 1171  [200~steam://open/console
+ 1172  ~steam://open/console
+ 1173  dotnet new console --framework net10.0 --use-program-main
+ 1174  clear
+ 1175  dotnet run
+ 1176  <enter>
+ 1177  clear
+ 1178  dotnet run
+ 1179  cd /Downloads
+ 1180  cd /Завантажене
+ 1181  cd /home/den/Завантажене
+ 1182  lc
+ 1183  ls
+ 1184  sudo dpkg -i code_1.108.1-1768404234_amd64.deb 
+ 1185  code
+ 1186  [200~sudo apt-get update && \
+ 1187  sudo apt update
+ 1188  sudo apt-get update &&   sudo apt-get install -y dotnet-sdk-10.0
+ 1189  sudo apt-get update &&   sudo apt-get install -y aspnetcore-runtime-10.0
+ 1190  sudo apt install zlib1g
+ 1191  dotnet --list-sdks
+ 1192  dotnet --list-runtime
+ 1193  dotnet --list-runtimes
+ 1194  code
+ 1195  dotnet new console --framework net10.0 --use-program-main
+ 1196  o /home/den/.vscode/extensions/ms-dotnettools.csharp-2.110.4-linux-x64/.debugger/vsdbg --interpreter=vscode --connection=/tmp/CoreFxPipe_vsdbg-ui-dbcb9ddfdf954eb2a3da342098f31a5c 
+ 1197  dotnet run
+ 1198  code
+ 1199  dotnet run
+ 1200  code
+ 1201  dotnet run
+ 1202  clear
+ 1203  dotnet run
+ 1204  сщву
+ 1205  code
+ 1206  clear
+ 1207  сщву
+ 1208  code
+ 1209  clear
+ 1210  dotnet run
+ 1211  dotnet run
+ 1212  clear
+ 1213  dotnet run
+ 1214  clear
+ 1215  code
+ 1216  сщву
+ 1217  code
+ 1218  clear
+ 1219  dotnet run
+ 1220  clear
+ 1221  dotnet run
+ 1222  code
+ 1223  dotnet run
+ 1224  сщву
+ 1225  code
+ 1226  dotnet run
+ 1227  сщву
+ 1228  code
+ 1229  dotnet run
+ 1230  code
+ 1231  dotnet run
+ 1232  Test
+ 1233  dotnet run
+ 1234  cd /home/den/projects/C#
+ 1235  cd /home/den/projects/C#/Casino
+ 1236  git innit
+ 1237  git init
+ 1238  git add all
+ 1239  git add .
+ 1240  git connfig
+ 1241  git config
+ 1242  git status
+ 1243  git commit -m "v0.0.1"
+ 1244  git remote add origin https://github.com/tatarchukvolodumer-dotcom/Casino.git
+ 1245  git push -u origin master
+ 1246  dotnet run
+ 1247  100
+ 1248  dotnet run
+ 1249  code
+ 1250  dotnet run
+ 1251  dotnet run
+ 1252  сщву
+ 1253  code
+ 1254  sudo apt install krita
+ 1255  krita
+ 1256  crita
+ 1257  krita
+ 1258  python3 -m thinker
+ 1259  sudo snap install pycharm-community --classic
+ 1260  tar -xvzf~ /home/den/Завантажене/pycharm-2025.3.3.tar.gz
+ 1261  tar -xvzf /home/den/Завантажене/pycharm-2025.3.3.tar.gz
+ 1262  cd pycharm-community-2021.3.2/bin/
+ 1263  chmod u+x pycharm.sh
+ 1264  ./pycharm.sh
+ 1265  cd pycharm-community-2021.3.2/bin/
+ 1266  cd pycharm-community-2021.3.3/bin/
+ 1267  sudo apt install python3-tk
+ 1268  sudo apt install python3-matplotlib
+ 1269  pip matplotlib
+ 1270  pip3 install matplotlib
+ 1271  python -m pip install matplotlib
+ 1272  python3 -m pip install matplotlib
+ 1273  sudo apt install python-3-pip
+ 1274  sudo apt install python3-pip
+ 1275  python3 -m pip install matplotlib
+ 1276  pip3 install matplotlib
+ 1277  sudo apt install python3-matplotlib
+ 1278  sudo apt install python3-venv python3-full
+ 1279  python3 -m venv venv
+ 1280  source venv/bin/activate
+ 1281  pip install matplotlib
+ 1282  python Main.py
+ 1283  python massive creator.py
+ 1284  python massivecreator.py
+ 1285  python Main.py
+ 1286  pyp install matplotlib
+ 1287  pip install matplotlib
+ 1288  docker compose up
+ 1289  docker-compose up
+ 1290  docker-compose down
+ 1291  cd /home/den/db/db-intro-course
+ 1292  docker-compose up
+ 1293  apt install dosbox
+ 1294  dosbox
+ 1295  pycharm
+ 1296  dosbox
+ 1297  snap
+ 1298  sudo apt install snaod
+ 1299  sudo apt install snapd
+ 1300  curl -sS https://download.spotify.com/debian/pubkey_5384CE82BA52C83A.asc | sudo gpg --dearmor --yes -o /etc/apt/trusted.gpg.d/spotify.gpg
+ 1301  echo "deb https://repository.spotify.com stable non-free" | sudo tee /etc/apt/sources.list.d/spotify.list
+ 1302  sudo apt-get update && sudo apt-get install spotify-client
+ 1303  spotify
+ 1304  free
+ 1305  free -h
+ 1306  spotify
+ 1307  steam
+ 1308  spotify
+ 1309  uname -a
+ 1310  sudo apt update && sudo apt upgrade
+ 1311  cat /etc/apt/sources.list
+ 1312  sudo apt install vim
+ 1313  cd ~
+ 1314  cd Downloads
+ 1315  cd Завантаження
+ 1316  cd Завантажене
+ 1317  man ls
+ 1318  ls -l
+ 1319  dpkg -i package.deb
+ 1320  sudo dpkg -i package.deb
+ 1321  uname -a
+ 1322  sudo apt update && sudo apt upgrade
+ 1323  cat /etc/apt/sources.list
+ 1324  sudo apt install vim
+ 1325  cd ~
+ 1326  cd Завантажене
+ 1327  man ls
+ 1328  ls -l
+ 1329  dpkg -i google-chrome-stable_current_amd64.deb
+ 1330  sudo dpkg -i google-chrome-stable_current_amd64.deb
+ 1331  clear
+ 1332  uname -a
+ 1333  sudo apt update && sudo apt upgrade
+ 1334  cat /etc/apt/sources.list
+ 1335  sudo apt install vim
+ 1336  cd ~
+ 1337  cd Завантажене
+ 1338  man ls
+ 1339  ls -l
+ 1340  dpkg -i docker-desktop-amd64.deb
+ 1341  sudo dpkg -i docker-desktop-amd64.deb
+ 1342  cd /
+ 1343  sudo su
+ 1344  echo "hi all"
+ 1345  echo "$PWD hi all here!"
+ 1346  touch hi.sh
+ 1347  sudo touch hi.sh
+ 1348  echo $PATH
+ 1349  vi hi.sh
+ 1350  uname -a
+ 1351  sudo apt update && sudo apt upgrade
+ 1352  cat /etc/apt/sources.list
+ 1353  sudo apt install vim
+ 1354  cd ~
+ 1355  cd Завантажене
+ 1356  man ls
+ 1357  ls -l
+ 1358  dpkg -i docker-desktop-amd64.deb
+ 1359  sudo dpkg -i docker-desktop-amd64.deb
+ 1360  cd /
+ 1361  sudo su
+ 1362  echo "hi all"
+ 1363  echo "$PWD hi all here!"
+ 1364  sudo touch hi.sh
+ 1365  echo $PATH
+ 1366  vi hi.sh
+ 1367  fg
+ 1368  ps aux | grep '[p]ing google.com'
+ 1369  sudo apt install reptyr
+ 1370  reptyr 13148
+ 1371  ps aux | grep ping
+ 1372  kill -TERM 12064
+ 1373  kill -TERM 13148
+ 1374  kill -TERM 33378
+ 1375  ps aux | grep ping
+ 1376  kill 13235
+ 1377  sudo kill 13235
+ 1378  sudo kill 33703
+ 1379  ps aux | grep ping
+ 1380  kill 33727
+ 1381  echo $?
+ 1382  [200~ps -o pid,ruid,euid,suid,user,cmd -p <PID>
+ 1383  id
+ 1384  grep CapEff /proc/$$/status~ps -o pid,ruid,euid,suid,user,cmd -p <PID>
+ 1385  id
+ 1386  grep CapEff /proc/$$/status
+ 1387  ps aux | grep ping
+ 1388  kill 33789
+ 1389  ps aux | grep ping
+ 1390  kill 34018
+ 1391  sudo kill 34018
+ 1392  history
+ 1393  history > history2.txt
+ 1394  history > home/den/history2.txt
+ 1395  history > /home/den/history2.txt
