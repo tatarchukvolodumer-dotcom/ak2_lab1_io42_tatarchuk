@@ -5,7 +5,7 @@
 
 ### `Фото`
 Скріншот виконання завдання 1.1.
-
+https://github.com/tatarchukvolodumer-dotcom/ak2_lab1_io42_tatarchuk/blob/main/photo_2026-09-14_16-58-50.jpg
 ### `history/`
 Історія команд, виконаних під час лабораторної роботи та оформлена для зручного читанння.
 
